@@ -1,3 +1,14 @@
 <resources>
     <string name="app_name">My Application</string>
+    <string name="message_label">Введите текст</string>
+    <string name="open_second_activity">Открыть вторую Activity</string>
+    <string name="message_validation_error">Введите непустой текст</string>
+    <string name="message_missing_error">Текст не был передан</string>
+    <string name="message_preview">Переданный текст</string>
+    <string name="phone_label">Номер телефона друга</string>
+    <string name="call_friend">Позвонить другу</string>
+    <string name="phone_validation_error">Введите корректный номер телефона</string>
+    <string name="dialer_unavailable_error">На устройстве нет приложения для звонков</string>
+    <string name="share_text">Поделиться текстом</string>
+    <string name="share_chooser_title">Поделиться через…</string>
 </resources>
